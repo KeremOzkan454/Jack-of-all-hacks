@@ -1,1 +1,1 @@
-# Jack-of-all-hacks (an all in one hacking tool)
+# Jack Of All Hacks (an all in one hacking tool):
